@@ -1,0 +1,29 @@
+FEATURE,IMPORTANCE
+TV_ads ($)xonline_ads ($),0.65212756
+Print_ads ($)xonline_ads ($),0.13660672
+monthly_sales_laggedxonline_ads ($),0.10690617
+Price ($),0.029964143
+online_ads ($),0.019610262
+TV_ads ($),0.010339679
+TV_ads ($)xmonthly_sales_lagged,0.00821252
+Print_ads ($)xmonthly_sales_lagged,0.0077358987
+TV_ads ($)xyear,0.0048350967
+Print_ads ($)xTV_ads ($),0.0039480687
+year,0.0034393712
+monthxmonthly_sales_lagged,0.0021813014
+Print_ads ($)xmonth,0.0018744261
+Print_ads ($),0.0017015875
+monthxyear,0.0016012129
+TV_ads ($)xmonth,0.0014368632
+month,0.0013607754
+Price ($)xTV_ads ($),0.0013484841
+monthxonline_ads ($),0.00097192085
+Price ($)xmonthly_sales_lagged,0.00095238286
+Price ($)xmonth,0.00088950124
+monthly_sales_lagged,0.00082592276
+Price ($)xPrint_ads ($),0.0006208359
+Price ($)xonline_ads ($),0.00050925935
+Price ($)xyear,0.0
+Print_ads ($)xyear,0.0
+monthly_sales_laggedxyear,0.0
+online_ads ($)xyear,0.0
